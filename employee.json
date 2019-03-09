@@ -1,0 +1,42 @@
+
+{
+  "Aimee": {
+    "inoffice": false
+  },
+  "Amit": {
+    "inoffice": false
+  },
+  "Andrew": {
+    "inoffice": true
+  },
+  "Ben": {
+    "inoffice": true
+  },
+  "Elizabeth": {
+    "inoffice": true
+  },
+  "Guil": {
+    "inoffice": false
+  },
+  "Hampton": {
+    "inoffice": true
+  },
+  "Jason": {
+    "inoffice": true
+  },
+  "Lainie": {
+    "inoffice": true
+  },
+  "Kenneth": {
+    "inoffice": false
+  },
+  "Pasan": {
+    "inoffice": true
+  },
+  "Shawna": {
+    "inoffice": true
+  },
+  "Zac": {
+    "inoffice": true
+  }
+}
